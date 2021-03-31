@@ -23,31 +23,7 @@
       "id": 2
     }
   ],
-  "users": [
-    {
-      "id": 1
-    },
-    {
-      "name": "Jim",
-      "email": "jim@email.com",
-      "id": 2
-    },
-    {
-      "name": "a",
-      "email": "b",
-      "id": 3
-    },
-    {
-      "name": "a",
-      "email": "b",
-      "id": 4
-    },
-    {
-      "name": "Jim",
-      "email": "jim@email.com",
-      "id": 5
-    }
-  ],
+  "users": [],
   "robots": [
     {
       "robotName": "C8-09S100K",
